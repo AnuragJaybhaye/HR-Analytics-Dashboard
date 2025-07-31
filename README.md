@@ -21,4 +21,6 @@ The patterns were striking 🎯. A line chart immediately revealed a significant
 The final result was a fully interactive dashboard that successfully solved every challenge laid out in the original case study ✅.
 For me, this project was a powerful hands-on experience. It allowed me to manage an entire analytics workflow—from raw data to actionable insight—and solidified my skills in using SQL and Power BI to transform a complex business problem into a clear, visual solution 💡.
 
-**Here is the final Dashboard ** ![Image Alt](https://github.com/KBLovesme/HR-Analytics-Dashboard/blob/c177127ea3c59d02715f27e4753bda9790570338/Dashboard.png)
+**Here is the final Dashboard**  
+
+![Image Alt](https://github.com/KBLovesme/HR-Analytics-Dashboard/blob/c177127ea3c59d02715f27e4753bda9790570338/Dashboard.png)
