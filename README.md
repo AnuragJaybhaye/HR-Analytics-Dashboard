@@ -1,4 +1,4 @@
-Yes Below is Chatgpt Generated - I'm Lazy
+Yes Below is Chatgpt Generated - I'm Lazy (Anyway's Who even read these)
 
 I’ve always been passionate about how data can tell a story and solve real-world problems 🌍. I came across a fascinating HR analytics dataset online that included a case study with a clear set of challenges: how to best allocate a $1000 wellness bonus, calculate a specific wage increase for non-smokers from a $983,221 insurance budget, and, most importantly, uncover the hidden patterns behind employee absenteeism.
 I saw this as the perfect opportunity to challenge myself 💪. I decided to take on the role of a BI Analyst and build a complete project from scratch, aiming to solve every problem presented in the case study.
